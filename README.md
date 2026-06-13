@@ -1,4 +1,4 @@
-# Q-Learning Practice
+# Q-Learning Projects
 
 This repository contains my practice implementations of Q-learning using Gym environments.
 
